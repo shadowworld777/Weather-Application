@@ -32,7 +32,7 @@ h1 {
  color: #fff;
 }
 
-.app:before {
+  .app:before {
   content: '';
   background: url('./assets/weather pic 2.jpg') no-repeat repeat center center/cover;
   position: absolute;
